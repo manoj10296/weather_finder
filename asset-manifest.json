@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "//github.com/manoj10296/weather_finder/static/css/main.10033feb.chunk.css",
+    "main.js": "//github.com/manoj10296/weather_finder/static/js/main.5dcaca29.chunk.js",
+    "main.js.map": "//github.com/manoj10296/weather_finder/static/js/main.5dcaca29.chunk.js.map",
+    "runtime~main.js": "//github.com/manoj10296/weather_finder/static/js/runtime~main.313856a9.js",
+    "runtime~main.js.map": "//github.com/manoj10296/weather_finder/static/js/runtime~main.313856a9.js.map",
+    "static/css/2.5b1e77d7.chunk.css": "//github.com/manoj10296/weather_finder/static/css/2.5b1e77d7.chunk.css",
+    "static/js/2.1b27ed3d.chunk.js": "//github.com/manoj10296/weather_finder/static/js/2.1b27ed3d.chunk.js",
+    "static/js/2.1b27ed3d.chunk.js.map": "//github.com/manoj10296/weather_finder/static/js/2.1b27ed3d.chunk.js.map",
+    "index.html": "//github.com/manoj10296/weather_finder/index.html",
+    "precache-manifest.b42b1f13fe072189d91a53f6687bc1f4.js": "//github.com/manoj10296/weather_finder/precache-manifest.b42b1f13fe072189d91a53f6687bc1f4.js",
+    "service-worker.js": "//github.com/manoj10296/weather_finder/service-worker.js",
+    "static/css/2.5b1e77d7.chunk.css.map": "//github.com/manoj10296/weather_finder/static/css/2.5b1e77d7.chunk.css.map",
+    "static/css/main.10033feb.chunk.css.map": "//github.com/manoj10296/weather_finder/static/css/main.10033feb.chunk.css.map",
+    "static/media/App.css": "//github.com/manoj10296/weather_finder/static/media/bg.b6796c73.jpg",
+    "static/media/bootstrap.min.css": "//github.com/manoj10296/weather_finder/static/media/glyphicons-halflings-regular.fa277232.woff"
+  }
+}
